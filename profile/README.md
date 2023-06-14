@@ -27,11 +27,11 @@ We're from <strong>C23-PS078</strong>, a team consisting of six talented people 
    <br>
    Download Now!
    <br>
-   <a href="https://github.com/HangoutYuk/hayuk-android/releases/download/1.0/HangoutYuk-v1.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://github.com/HangoutYuk/hayuk-android/releases/tag/1.0"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 </p>
 
 ## Our Team
-   
+
 <p align="justify">
 The <strong>C23-PS078</strong> team is formed of three different learning paths in a cross-functional teamworking environment, with each learning path having different tasks and roles in the development of the HangoutYuk! application. 
 In layman's terms, the learning paths of our team can be categorized into the following:
